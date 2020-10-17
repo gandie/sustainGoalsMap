@@ -1,3 +1,11 @@
+# Attention!
+
+As we've found out this already exists:
+
+https://www.wegweiser-kommune.de/statistik/herford-hf+nachhaltigkeit-sdgs+kinderarmut+2018+karte
+
+So we'll rather put our efforts into improvements of the existing map instead of writing a new one.
+
 # sustainGoalsMap
 Draw a map colouring cities by their sustainable goals fulfillment
 
